@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Guided Learning/Array.md",
+            "file": "Javascript/Guided Learning/Array Methods.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Guided Learning/Array.md",
+                "file": "Javascript/Guided Learning/Array Methods.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Guided Learning/Array.md",
+                "file": "Javascript/Guided Learning/Array Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Guided Learning/Array.md"
+                "file": "Javascript/Guided Learning/Array Methods.md"
               }
             }
           }
@@ -109,15 +109,15 @@
   },
   "active": "0f2e7d8624b278e9",
   "lastOpenFiles": [
-    "Javascript/Guided Learning/Array.md",
-    "Learning Plan.md",
+    "Javascript/Guided Learning/Array Methods.md",
     "Javascript/Guided Learning/Index.md",
-    "Array Methods.md",
+    "Javascript/Guided Learning/Array.md",
+    "Javascript/Guided Learning/String.md",
     "Javascript/Guided Learning/Math Objects.md",
     "Javascript/Guided Learning/Array.forEach().md",
+    "Learning Plan.md",
     "Untitled.md",
     "Recording 20211214174835.webm",
-    "Recording 20211214174820.webm",
-    "Javascript/Guided Learning/Array Methods.md"
+    "Recording 20211214174820.webm"
   ]
 }
