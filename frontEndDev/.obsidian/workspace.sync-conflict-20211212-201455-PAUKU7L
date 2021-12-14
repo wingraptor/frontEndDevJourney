@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "29e576d58020b034",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b70a56062ebf86c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Javascript/Guided Learning/Index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34379ad841139deb",
+    "type": "split",
+    "children": [
+      {
+        "id": "232d8d24f6f6bffe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c808f5b3fafafae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d3669830f046e57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291
+  },
+  "right": {
+    "id": "996c969ea026755b",
+    "type": "split",
+    "children": [
+      {
+        "id": "67b09f7781dbadf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72fde73367975d56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Javascript/Guided Learning/Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c780f3c59036cd87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Javascript/Guided Learning/Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d72a5caa469775a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Javascript/Guided Learning/Index.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3b70a56062ebf86c",
+  "lastOpenFiles": [
+    "Javascript/Guided Learning/Index.md",
+    "Javascript/Guided Learning/Math Objects.md",
+    "Javascript/Guided Learning/Array.forEach().md",
+    "dailyNotes/2021-12-12.md",
+    "Javascript/Guided Learning/Math.round().md",
+    "Javascript/Guided Learning/Math.floor().md",
+    "Javascript/Guided Learning/Math.ceiling().md",
+    "Javascript/Guided Learning/Math.abs().md",
+    "Javascript/Guided Learning/String.md",
+    "Javascript/Guided Learning/String.slice().md"
+  ]
+}

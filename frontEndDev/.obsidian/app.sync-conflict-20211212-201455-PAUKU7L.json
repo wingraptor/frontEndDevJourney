@@ -1,0 +1,17 @@
+{
+  "obsidianCss": false,
+  "promptDelete": false,
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "spellcheckDictionary": [
+    "vermicomposting",
+    "Vercel",
+    "Vue",
+    "serverless",
+    "ToDos"
+  ],
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./attachments"
+}

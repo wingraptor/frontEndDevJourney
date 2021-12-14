@@ -1,0 +1,73 @@
+{
+  "choices": [
+    {
+      "id": "e3580518-40e8-47a4-9610-7145ee08b2d9",
+      "name": "Capture to Daily ToDos",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "dailyNotes/{{DATE:YYYY-DD-MM}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "Templates/dailyNotesTemplate.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ] #TODO **{{DATE:HH:mm}}**: {{VALUE}}\\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## ToDos",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "0c6cc0b5-f172-4803-9235-e8a9d8ed777a",
+      "name": "Capture to Daily Random Thoughts",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "dailyNotes/{{DATE:YYYY-DD-MM}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "Templates/dailyNotesTemplate.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ] #TOREVIEW **{{DATE:HH:mm}}**: {{VALUE}}\\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## Random Thoughts",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": []
+}
