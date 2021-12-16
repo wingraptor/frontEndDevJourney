@@ -1,21 +1,40 @@
 # Array.forEach() Method
 
-This is a built-in [[Array Methods | Array Method ]] for iterating over an [[Array]].
+## Description
+
+This is a built-in Array Function ([[Array Methods | Array Method ]]) for iterating over an [[Array]].
+
+---
+
 
 ## Syntax
 
 .forEach takes a callback function, that callback function is expected to have at least 1, but up to 3, arguments. 
 
-`forEach(function(el, i, arr)`
+```js
+arr.forEach(function(el, i, arr), thisValue)
+```
 
-The arguments are in a specific order:
+---
 
--   The first one (el in example)represents each element in the array (per loop iteration) that .forEach was called on. This is a placeholder name and can be anything that you want it to be.
+### Parameters
+
+The parameters are in a specific order:
+
+-   The first one (`el` in example) represents each element in the array (per loop iteration) that .forEach was called on. This is a placeholder name and can be anything that you want it to be.
     
--   The second (i in example) represents the index of said element. (this is optional)
+-   The second (`i` in example) represents the index of said element. (**Optional**)
     
--   The third (arr in example) represents the array that .forEach was called on (it will be the same for every iteration of the loop). This is optional.
+-   The third (`arr` in example) represents the array that .forEach was called on (it will be the same for every iteration of the loop). **Optional.**
+-  
+-   The fourth (`thisValue`) represents the value passed to the function as its `this` value. 
     
+	
+	### Return Value
+	
+	`undefined`
+	
+	
 ---
 
 ## Examples
@@ -78,6 +97,23 @@ colors.forEach(function(){
 
 In the example above "stuff" is logged to the console 4 times,  **once for each item in the array. For each item in the array an item is logged.**
 
+```js
+const numbers = [65, 44, 12, 4];  
+numbers.forEach(myFunction)  
+  
+function myFunction(item, index, arr) {  
+ arr[index] = item * 10;  
+}
+
+```
 ---
 
+
+### forEach With String
+
+Have to convert string to array by using the [[Spread Operator]].
+
+
+
 ## Resources
+- [JavaScript Array forEach() Method (w3schools.com)](https://www.w3schools.com/jsref/jsref_foreach.asp)

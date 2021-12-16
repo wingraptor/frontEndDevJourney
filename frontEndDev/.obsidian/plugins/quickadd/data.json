@@ -11,15 +11,49 @@
       "createFileIfItDoesntExist": {
         "enabled": true,
         "createWithTemplate": true,
-        "template": "templates/dailyNotesTemplate.md"
+        "template": "Templates/dailyNotesTemplate.md"
       },
       "format": {
         "enabled": true,
-        "format": "- {{DATE:HH:mm}}: {{VALUE}}\\n"
+        "format": "- #TODO: {{DATE:HH:mm}}: {{VALUE}}\\n"
       },
       "insertAfter": {
         "enabled": true,
-        "after": "{{DATE:YYYY-DD-MM}}",
+        "after": "## To-dos",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "55289978-89ef-42dc-b086-2602b6cb4f46",
+      "name": "javascriptMethods",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "---\ncreation date: <% tp.file.creation_date() %>\nmodification date: <% tp.file.last_modified_date(\"dddd Do MMMM YYYY HH:mm:ss\") %>\ntags: TODO, methods, javascript\n---\n\n# <% tp.file.title %>\n\n**_Checklist_**\n\n- [ ] Add Notes\n- [ ] Add to Anki\n- [ ] Update tags (Example: arrays, math)\n- [ ] Remove TODO tag\n\n---\n\n\n## Syntax\n\n```js\n\n\n\n```\n\n### Parameters\n\n\n### Return Value\n\n---\n\n## Description\n\n\n---\n\n\n## Examples\n\n\n\n---\n\n\n## Resources\n\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
         "insertAtEnd": false,
         "createIfNotFound": false,
         "createIfNotFoundLocation": "top"

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Guided Learning/Array Methods.md",
+            "file": "Templates/javaScriptMethodTemplate.md",
             "mode": "source"
           }
         }
@@ -39,13 +39,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "9c97f43da584d5ab",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -68,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Guided Learning/Array Methods.md",
+                "file": "Templates/javaScriptMethodTemplate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Guided Learning/Array Methods.md",
+                "file": "Templates/javaScriptMethodTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,7 +105,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Guided Learning/Array Methods.md"
+                "file": "Templates/javaScriptMethodTemplate.md"
+              }
+            }
+          },
+          {
+            "id": "a1dca2e33f511946",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
               }
             }
           }
@@ -109,15 +128,15 @@
   },
   "active": "0f2e7d8624b278e9",
   "lastOpenFiles": [
-    "Javascript/Guided Learning/Array Methods.md",
-    "Javascript/Guided Learning/Index.md",
-    "Javascript/Guided Learning/Array.md",
-    "Javascript/Guided Learning/String.md",
-    "Javascript/Guided Learning/Math Objects.md",
+    "Templates/javaScriptMethodTemplate.md",
+    "Templates/dailyNotesTemplate.md",
+    "Javascript/Guided Learning/String.substring().md",
+    "Javascript/Guided Learning/Math.ceiling().md",
+    "dailyNotes/2021-12-12.md",
+    "Javascript/Guided Learning/Operators.md",
     "Javascript/Guided Learning/Array.forEach().md",
-    "Learning Plan.md",
-    "Untitled.md",
-    "Recording 20211214174835.webm",
-    "Recording 20211214174820.webm"
+    "Javascript/Guided Learning/Array.md",
+    "Javascript/Guided Learning/Array Methods.md",
+    "dailyNotes/2021-14-12.md"
   ]
 }

@@ -2,10 +2,16 @@
 ## Internal Resources/Notes
 - [[Array]]
 	- [[Array Methods]]
+		- [[Array.forEach()]]
 - [[Math Objects]]
 	- [[Math.abs()]]
+	- [[Math.round()]]
+	- [[Math.floor()]]
+	- [[Math.ceiling()]]
 - [[Operators]]
-	- [[ternaryOperator]]
+	- [[ternaryOperator | Ternary Operator]]
+	- [[Remainder Operator]]
+	- [[Spread Operator]]
 
 ## External Resources
 - freeCodeCamp

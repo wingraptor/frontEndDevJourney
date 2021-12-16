@@ -3,5 +3,7 @@
   "promptDelete": false,
   "spellcheck": true,
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "attachments"
 }
