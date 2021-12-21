@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/javaScriptMethodTemplate.md",
+            "file": "Learning Plan.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/javaScriptMethodTemplate.md",
+                "file": "Learning Plan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/javaScriptMethodTemplate.md",
+                "file": "Learning Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/javaScriptMethodTemplate.md"
+                "file": "Learning Plan.md"
               }
             }
           },
@@ -120,7 +120,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -128,15 +129,15 @@
   },
   "active": "0f2e7d8624b278e9",
   "lastOpenFiles": [
+    "Learning Plan.md",
+    "dailyNotes/2021-16-12.md",
+    "dailyNotes/2021-14-12.md",
+    "Meta-Learning/Timetable App or Obsidian Plugin.md",
+    "dailyNotes/Year/2021/December/2021-11-12.md",
+    "dailyNotes/2021-12-12.md",
     "Templates/javaScriptMethodTemplate.md",
     "Templates/dailyNotesTemplate.md",
     "Javascript/Guided Learning/String.substring().md",
-    "Javascript/Guided Learning/Math.ceiling().md",
-    "dailyNotes/2021-12-12.md",
-    "Javascript/Guided Learning/Operators.md",
-    "Javascript/Guided Learning/Array.forEach().md",
-    "Javascript/Guided Learning/Array.md",
-    "Javascript/Guided Learning/Array Methods.md",
-    "dailyNotes/2021-14-12.md"
+    "Javascript/Guided Learning/Math.ceiling().md"
   ]
 }

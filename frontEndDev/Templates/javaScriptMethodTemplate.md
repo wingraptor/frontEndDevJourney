@@ -11,6 +11,7 @@ tags: TODO, methods, javascript
 - [ ] Add Notes
 - [ ] Add to Anki
 - [ ] Update tags (Example: arrays, math)
+- [ ] Add notes to Index
 - [ ] Remove TODO tag
 
 ---
