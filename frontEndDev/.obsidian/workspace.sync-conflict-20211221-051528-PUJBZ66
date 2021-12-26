@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "29e576d58020b034",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f2e7d8624b278e9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Learning Plan.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a7dc4d4afb85ac7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bf1724c1109c1cef",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "579f2c79b350758d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5c615835c8a592f9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "7f3e07cf5dd796d1",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0416699e38d0de9b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "642d481f3a0d3336",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Learning Plan.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2c62f717c735a793",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Learning Plan.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "660e0bf32cd43247",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Learning Plan.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "0f2e7d8624b278e9",
+  "lastOpenFiles": [
+    "Learning Plan.md",
+    "dailyNotes/2021-16-12.md",
+    "dailyNotes/2021-14-12.md",
+    "dailyNotes/2021-12-12.md",
+    "Templates/javaScriptMethodTemplate.md",
+    "dailyNotes/Year/2021/December/2021-11-12.md",
+    "Meta-Learning/Timetable App or Obsidian Plugin.md",
+    "Templates/dailyNotesTemplate.md",
+    "Javascript/Guided Learning/String.substring().md",
+    "Javascript/Guided Learning/Math.ceiling().md"
+  ]
+}

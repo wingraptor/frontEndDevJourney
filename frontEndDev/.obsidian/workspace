@@ -125,19 +125,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "0f2e7d8624b278e9",
   "lastOpenFiles": [
     "Learning Plan.md",
-    "dailyNotes/2021-16-12.md",
+    "Learning Plan.sync-conflict-20211221-051732-PAUKU7L.md",
+    "Templates/javaScriptMethodTemplate.md",
     "dailyNotes/2021-14-12.md",
+    "dailyNotes/2021-12-12.md",
+    "dailyNotes/2021-16-12.md",
+    "dailyNotes/2021-21-12.md",
     "Meta-Learning/Timetable App or Obsidian Plugin.md",
     "dailyNotes/Year/2021/December/2021-11-12.md",
-    "dailyNotes/2021-12-12.md",
-    "Templates/javaScriptMethodTemplate.md",
-    "Templates/dailyNotesTemplate.md",
-    "Javascript/Guided Learning/String.substring().md",
-    "Javascript/Guided Learning/Math.ceiling().md"
+    "Templates/dailyNotesTemplate.md"
   ]
 }
