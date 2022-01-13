@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Learning Plan.md",
-            "mode": "source"
+            "file": "Javascript/Guided Learning/ternaryOperator.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4c4d78f1241def0b",
+    "id": "89b998bb71140f56",
     "type": "split",
     "children": [
       {
-        "id": "a764d51bfc1d8c8a",
+        "id": "1a1544a24f1d3c04",
         "type": "tabs",
         "children": [
           {
-            "id": "1f9e60cd95be264b",
+            "id": "88a8f702152fc032",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +35,12 @@
             }
           },
           {
-            "id": "106b2709a4d7ce71",
+            "id": "8e5d5d0ddb6a6a33",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "iterate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,35 +50,36 @@
             }
           },
           {
-            "id": "9c97f43da584d5ab",
+            "id": "9754a10ae219ef1a",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "0cec123bc07eb5e1",
+    "id": "f755338ded354d51",
     "type": "split",
     "children": [
       {
-        "id": "80892df4fa28d14f",
+        "id": "a606fc4bb69aedcd",
         "type": "tabs",
         "children": [
           {
-            "id": "bf0eb3ae17c5e4cd",
+            "id": "e629a4d679d24ad0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Plan.md",
-                "collapseAll": true,
+                "file": "Javascript/Guided Learning/ternaryOperator.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -88,40 +90,39 @@
             }
           },
           {
-            "id": "3552f441f4077240",
+            "id": "79d4aefdea166670",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Plan.md",
+                "file": "Javascript/Guided Learning/ternaryOperator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ac44404c1c8f7123",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Learning Plan.md"
-              }
-            }
-          },
-          {
-            "id": "a1dca2e33f511946",
+            "id": "9f89990fe6e27acd",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc843f89ca734c5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Javascript/Guided Learning/ternaryOperator.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,15 +131,15 @@
   },
   "active": "0f2e7d8624b278e9",
   "lastOpenFiles": [
+    "Javascript/Guided Learning/ternaryOperator.md",
+    "Templates/javaScriptMethodTemplate.md",
+    "Templates/dailyNotesTemplate.md",
+    "Meta-Learning/Timetable App or Obsidian Plugin.md",
+    "Javascript/Guided Learning/Index.md",
+    "Javascript/Guided Learning/Array.md",
     "Learning Plan.md",
     "Learning Plan.sync-conflict-20211221-051732-PAUKU7L.md",
-    "Templates/javaScriptMethodTemplate.md",
     "dailyNotes/2021-14-12.md",
-    "dailyNotes/2021-12-12.md",
-    "dailyNotes/2021-16-12.md",
-    "dailyNotes/2021-21-12.md",
-    "Meta-Learning/Timetable App or Obsidian Plugin.md",
-    "dailyNotes/Year/2021/December/2021-11-12.md",
-    "Templates/dailyNotesTemplate.md"
+    "dailyNotes/2021-12-12.md"
   ]
 }
