@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Guided Learning/ternaryOperator.md",
+            "file": "Templates/javaScriptMethodTemplate.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iterate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Guided Learning/ternaryOperator.md",
+                "file": "Templates/javaScriptMethodTemplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Guided Learning/ternaryOperator.md",
+                "file": "Templates/javaScriptMethodTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Guided Learning/ternaryOperator.md"
+                "file": "Templates/javaScriptMethodTemplate.md"
               }
             }
           }
@@ -131,15 +130,15 @@
   },
   "active": "0f2e7d8624b278e9",
   "lastOpenFiles": [
-    "Javascript/Guided Learning/ternaryOperator.md",
     "Templates/javaScriptMethodTemplate.md",
     "Templates/dailyNotesTemplate.md",
-    "Meta-Learning/Timetable App or Obsidian Plugin.md",
-    "Javascript/Guided Learning/Index.md",
-    "Javascript/Guided Learning/Array.md",
+    "Javascript/Guided Learning/Math.ceiling().md",
+    "Javascript/Guided Learning/Array.forEach().md",
+    "Javascript/Guided Learning/Array Methods.md",
     "Learning Plan.md",
-    "Learning Plan.sync-conflict-20211221-051732-PAUKU7L.md",
-    "dailyNotes/2021-14-12.md",
-    "dailyNotes/2021-12-12.md"
+    "dailyNotes/2021-12-12.md",
+    "dailyNotes/2021-16-12.md",
+    "dailyNotes/2021-21-12.md",
+    "dailyNotes/2021-14-12.md"
   ]
 }
