@@ -1,0 +1,1 @@
+- Exposing Local host to the web: I am using localtunnel. I can use the command `lt --pot ${portNumber}` to expose my port to the web. 

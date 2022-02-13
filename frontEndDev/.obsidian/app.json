@@ -6,5 +6,6 @@
   "foldIndent": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "attachments",
-  "legacyEditor": false
+  "legacyEditor": false,
+  "fileSortOrder": "byModifiedTime"
 }

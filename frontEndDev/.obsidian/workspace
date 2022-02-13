@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0f2e7d8624b278e9",
+        "id": "d9967a63fbf7fa74",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/javaScriptMethodTemplate.md",
+            "file": "Projects/bajanSalaryProject/Landing Page.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#project",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 235
   },
   "right": {
     "id": "f755338ded354d51",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/javaScriptMethodTemplate.md",
+                "file": "Projects/bajanSalaryProject/Landing Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/javaScriptMethodTemplate.md",
+                "file": "Projects/bajanSalaryProject/Landing Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,28 +117,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/javaScriptMethodTemplate.md"
+                "file": "Projects/bajanSalaryProject/Landing Page.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "0f2e7d8624b278e9",
+  "active": "d9967a63fbf7fa74",
   "lastOpenFiles": [
-    "Templates/javaScriptMethodTemplate.md",
-    "Templates/dailyNotesTemplate.md",
-    "Javascript/Guided Learning/Math.ceiling().md",
-    "Javascript/Guided Learning/Array.forEach().md",
-    "Javascript/Guided Learning/Array Methods.md",
-    "Learning Plan.md",
-    "dailyNotes/2021-12-12.md",
-    "dailyNotes/2021-16-12.md",
-    "dailyNotes/2021-21-12.md",
-    "dailyNotes/2021-14-12.md"
+    "Projects/bajanSalaryProject/Landing Page.md",
+    "Projects/bajanSalaryProject/Data Presentation Page.md",
+    "Projects/bajanSalaryProject/Host on Static Site.md",
+    "Projects/bajanSalaryProject/Job Data Entry Form.md",
+    "Web Dev Tools/List.md",
+    "WSL/Cheatsheet.md",
+    "Projects/bajanSalaryProject/Plan.md",
+    "Meta-Learning/Timetable App or Obsidian Plugin.md",
+    "Templates/projectTemplate.md",
+    "Projects/bajanSalaryProjects/landingPage.md"
   ]
 }

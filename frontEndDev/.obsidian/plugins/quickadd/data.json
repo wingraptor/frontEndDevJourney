@@ -67,6 +67,66 @@
       },
       "openFile": false,
       "openFileInMode": "default"
+    },
+    {
+      "id": "0fae9ab0-db48-4aac-89f8-c7a576d4b973",
+      "name": "Project",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/projectTemplate",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "eb9b2141-d27f-43f9-9c1b-80c97b94f69d",
+      "name": "projectFeatures",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "---\nStart Date: {{DATE:Do MMM YYYY}}\nTrello Link: \ntags: feature\n---\n\n## Description (High Level)\n\n---\n\n## Goals\n\n^e7aac0\n\n---\n\n## Tasks / Features List\n\n^624345\n\n### Essential\nThese are the tasks and features that are required for the main functionality of project to be achieved.\n\n- [[]]\n- [[]]\n\n### Non-Essential\nThese are the tasks and features that are not required for the main functionality of project to be achieved but add additional functionalities to the project. \n- [[]]\n- [[]]\n---\n## Technologies to Use\nChoose technologies based on: \n- Alignment with [[#^e7aac0 |Goals]]\n- Best fit to [[#^624345|Task  / Feature List]]\n\n---\n\n\n## Timeline\n\n---\n## Resources\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
     }
   ],
   "macros": []
