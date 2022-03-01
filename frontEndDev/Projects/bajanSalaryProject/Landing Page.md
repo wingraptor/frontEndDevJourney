@@ -16,6 +16,7 @@ The landing page should have links to:
 
 Potential names: 
 - Fair Wage Barbados
+- Fair Wage Bim
 
 ---
 
@@ -32,7 +33,7 @@ Potential names:
 ### Essential
 These are the tasks and features that are required for the main functionality of project to be achieved.
 
- #### Wireframe
+#### Wireframe
 I have decided to use the template provided by [Landing Page Wireframe Template | Moqups](https://moqups.com/templates/wireframes-mockups/landing-page-wireframe/) as the frontpage that I will attempt to replicate.
 
 **Navbar**
@@ -46,6 +47,13 @@ I used a Bulma basic header to do this. During this process I learned about conv
 - About Us Text
 - Link to Data Entry Form
 - Background 'Hero' Image
+	- Used plain white for now
+- Slogan
+	- Tipping the Balance Back To You
+	- Welcome to Fair Wage Bim
+- Sub slogan
+	- Discover industry specific salaries and other perks, as well as job satisfaction ratings for the #246.
+	- Using Data to Tip the Balance Of Power Into Workers' Hands.
 
 ### Non-Essential
 These are the tasks and features that are not required for the main functionality of project to be achieved but add additional functionalities to the project. 
@@ -60,8 +68,7 @@ Choose technologies based on:
 ## Timeline
 Version 1 Screenshot:
 
-
-
+![[Landing Page Screenshot 1.jpeg]]
 ---
 ## Resources
 [Wireframe.cc | The go-to free, online wireframing tool.](https://wireframe.cc/)

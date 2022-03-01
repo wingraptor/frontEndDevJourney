@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/bajanSalaryProject/Landing Page.md",
+            "file": "Web Dev Tools/List.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235
+    "width": 310
   },
   "right": {
     "id": "f755338ded354d51",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/bajanSalaryProject/Landing Page.md",
+                "file": "Web Dev Tools/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/bajanSalaryProject/Landing Page.md",
+                "file": "Web Dev Tools/List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/bajanSalaryProject/Landing Page.md"
+                "file": "Web Dev Tools/List.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "d9967a63fbf7fa74",
   "lastOpenFiles": [
+    "Web Dev Tools/List.md",
+    "Projects/bajanSalaryProject/Develop Database.md",
+    "Projects/bajanSalaryProject/Plan.md",
+    "Projects/bajanSalaryProject/Job Data Entry Form.md",
     "Projects/bajanSalaryProject/Landing Page.md",
     "Projects/bajanSalaryProject/Data Presentation Page.md",
     "Projects/bajanSalaryProject/Host on Static Site.md",
-    "Projects/bajanSalaryProject/Job Data Entry Form.md",
-    "Web Dev Tools/List.md",
     "WSL/Cheatsheet.md",
-    "Projects/bajanSalaryProject/Plan.md",
     "Meta-Learning/Timetable App or Obsidian Plugin.md",
-    "Templates/projectTemplate.md",
-    "Projects/bajanSalaryProjects/landingPage.md"
+    "Templates/projectTemplate.md"
   ]
 }
