@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web Dev Tools/List.md",
+            "file": "Projects/bajanSalaryProject/Landing Page.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#project",
+                "query": "nodelist",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Dev Tools/List.md",
+                "file": "Projects/bajanSalaryProject/Landing Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Dev Tools/List.md",
+                "file": "Projects/bajanSalaryProject/Landing Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Dev Tools/List.md"
+                "file": "Projects/bajanSalaryProject/Landing Page.md"
               }
             }
           }
@@ -131,15 +132,15 @@
   },
   "active": "d9967a63fbf7fa74",
   "lastOpenFiles": [
-    "Web Dev Tools/List.md",
-    "Projects/bajanSalaryProject/Develop Database.md",
-    "Projects/bajanSalaryProject/Plan.md",
-    "Projects/bajanSalaryProject/Job Data Entry Form.md",
     "Projects/bajanSalaryProject/Landing Page.md",
+    "Projects/bajanSalaryProject/Job Data Entry Form.md",
+    "Projects/bajanSalaryProject/Style Website.md",
+    "Projects/bajanSalaryProject/Plan.md",
+    "Projects/bajanSalaryProject/Develop Database.md",
+    "Web Dev Tools/List.md",
     "Projects/bajanSalaryProject/Data Presentation Page.md",
     "Projects/bajanSalaryProject/Host on Static Site.md",
     "WSL/Cheatsheet.md",
-    "Meta-Learning/Timetable App or Obsidian Plugin.md",
-    "Templates/projectTemplate.md"
+    "Meta-Learning/Timetable App or Obsidian Plugin.md"
   ]
 }
