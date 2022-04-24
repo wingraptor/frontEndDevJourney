@@ -1,0 +1,1 @@
+Allow user to submit their cost of living so that I can generate accurate cost of living for Barbados and correlate with their salary. 

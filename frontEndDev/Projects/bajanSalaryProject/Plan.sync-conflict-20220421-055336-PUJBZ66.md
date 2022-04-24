@@ -51,11 +51,6 @@ These are the tasks and features that are required for the main functionality of
 - [[Projects/bajanSalaryProject/Job Data Entry Form |Job Data Entry Form]]
 - [[Projects/bajanSalaryProject/Data Presentation Page |Job Data Presentation Page]]
 - [[Projects/bajanSalaryProject/Host on Static Site|Host on Static Site]]
-- [[Develop Database]]
-- [[Style Website]]
-- [[Data Presentation Page]]
-- [[Net Salary Calculator]]
-- [[Cost of Living Calculator]]
 
 ### Non-Essential
 These are the tasks and features that are not required for the main functionality of project to be achieved but add additional functionalities to the project. 

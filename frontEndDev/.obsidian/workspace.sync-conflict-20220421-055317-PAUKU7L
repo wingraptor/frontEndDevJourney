@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "29e576d58020b034",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9967a63fbf7fa74",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Learning Plan.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89b998bb71140f56",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a1544a24f1d3c04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88a8f702152fc032",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e5d5d0ddb6a6a33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "nodelist",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9754a10ae219ef1a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310
+  },
+  "right": {
+    "id": "f755338ded354d51",
+    "type": "split",
+    "children": [
+      {
+        "id": "a606fc4bb69aedcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e629a4d679d24ad0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learning Plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79d4aefdea166670",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learning Plan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f89990fe6e27acd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc843f89ca734c5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learning Plan.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d9967a63fbf7fa74",
+  "lastOpenFiles": [
+    "Learning Plan.md",
+    "Projects/bajanSalaryProject/Data Presentation Page.md",
+    "Projects/bajanSalaryProject/Job Data Entry Form.md",
+    "Projects/bajanSalaryProject/Cost Of Living Calculator.md",
+    "Projects/bajanSalaryProject/Plan.md",
+    "Projects/bajanSalaryProject/Net Salary Calculator.md",
+    "Projects/bajanSalaryProject/Landing Page.md",
+    "Projects/bajanSalaryProject/Style Website.md",
+    "Projects/bajanSalaryProject/Develop Database.md",
+    "Web Dev Tools/List.md"
+  ]
+}

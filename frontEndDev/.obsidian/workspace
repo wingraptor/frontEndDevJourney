@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/bajanSalaryProject/Landing Page.md",
+            "file": "Learning Plan.md",
             "mode": "source",
             "source": false
           }
@@ -19,128 +19,111 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "89b998bb71140f56",
-    "type": "split",
+    "id": "6752a24028fb4cd1",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "1a1544a24f1d3c04",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "88a8f702152fc032",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "8e5d5d0ddb6a6a33",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "nodelist",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "9754a10ae219ef1a",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "08dc8932a4519a33",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "5da3d4caf693be69",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "1e4366ce3cda948b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c7e3516d4a6e53a5",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 310
+    "currentTab": 0
   },
   "right": {
-    "id": "f755338ded354d51",
-    "type": "split",
+    "id": "88d21ea7a59e6491",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "a606fc4bb69aedcd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e629a4d679d24ad0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Projects/bajanSalaryProject/Landing Page.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "79d4aefdea166670",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Projects/bajanSalaryProject/Landing Page.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "9f89990fe6e27acd",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "bc843f89ca734c5d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Projects/bajanSalaryProject/Landing Page.md"
-              }
-            }
+        "id": "799babd0bb697baa",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Learning Plan.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ],
-        "currentTab": 3
+        }
+      },
+      {
+        "id": "86f7563d04f45146",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Learning Plan.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "895dd6d2fddb2063",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Learning Plan.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "d9967a63fbf7fa74",
   "lastOpenFiles": [
+    "Learning Plan.md",
     "Projects/bajanSalaryProject/Landing Page.md",
-    "Projects/bajanSalaryProject/Job Data Entry Form.md",
-    "Projects/bajanSalaryProject/Style Website.md",
-    "Projects/bajanSalaryProject/Plan.md",
-    "Projects/bajanSalaryProject/Develop Database.md",
-    "Web Dev Tools/List.md",
+    "WSL/Cheatsheet.md",
     "Projects/bajanSalaryProject/Data Presentation Page.md",
     "Projects/bajanSalaryProject/Host on Static Site.md",
-    "WSL/Cheatsheet.md",
-    "Meta-Learning/Timetable App or Obsidian Plugin.md"
+    "Projects/bajanSalaryProject/Job Data Entry Form.md",
+    "Web Dev Tools/List.md",
+    "Projects/bajanSalaryProject/Plan.md",
+    "Meta-Learning/Timetable App or Obsidian Plugin.md",
+    "Templates/projectTemplate.md"
   ]
 }

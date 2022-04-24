@@ -3,10 +3,7 @@
 I want to become a developer because:
 
 1. More job opportunities
-	1. Flexibility to live outside of Barbados
 2. Higher pay
-	1. ==Move out of home==
-	2. ==Ability to start a family==
 3. Ability to work in places other than Barbados
 4. Ability to work remotely
 5. Better job flexibility
@@ -20,7 +17,7 @@ My main goal is to become a **Front-end Developer** w/ some knowledge of the bac
 Using the WOOP (Wish, Outcome, Obstacles and Plans) method, the following is what I want to achieve:
 
 1.  **Wish**: My main goal is to become a **Front-end Developer** w/ some knowledge of the backend. **I am choosing this path because the work of a full-stack developer is increasingly accessible to someone with primarily front-end knowledge.** This is made possible by services such as Vercel and AWS Amplifiy coupled with React, Vue frameworks and serverless API servers + static sites.
-2.  **Outcome**: My ultimate goal is to develop web apps that will bring in additional income and will allow me to to gain financial independence and the ability to start a family. 
+2.  **Outcome**: My ultimate goal is to develop web apps that will bring in additional income and will allow me to to gain financial independence. 
 3.  **Obstacles:**
 -  Acquiring necessary knowledge to make production ready apps.
 - Having the discipline and motivation needed to achieve my goals
