@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Learning Plan.md",
+            "file": "Javascript/Guided Learning/The Weird Parts/Section 2 - Execution Contexts and Lexical Environments.md",
             "mode": "source",
             "source": false
           }
@@ -19,111 +19,127 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6752a24028fb4cd1",
-    "type": "mobile-drawer",
+    "id": "6ebd417eb96cc193",
+    "type": "split",
     "children": [
       {
-        "id": "08dc8932a4519a33",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "5da3d4caf693be69",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "2e9f1a2d53539ace",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43e60c3d6b35b6ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cbc4f93b75e73c73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4f82bff0011b30a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "1e4366ce3cda948b",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "c7e3516d4a6e53a5",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "88d21ea7a59e6491",
-    "type": "mobile-drawer",
+    "id": "d2f3ccae9633de75",
+    "type": "split",
     "children": [
       {
-        "id": "799babd0bb697baa",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Learning Plan.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "5751c751f885d420",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36756401f40df4c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Javascript/Guided Learning/The Weird Parts/Section 2 - Execution Contexts and Lexical Environments.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a05788ed563f177",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Javascript/Guided Learning/The Weird Parts/Section 2 - Execution Contexts and Lexical Environments.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3a06137ddff9ff6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74750c7a09cefefd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Javascript/Guided Learning/The Weird Parts/Section 2 - Execution Contexts and Lexical Environments.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "86f7563d04f45146",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "Learning Plan.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "895dd6d2fddb2063",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Learning Plan.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "d9967a63fbf7fa74",
   "lastOpenFiles": [
+    "Javascript/Guided Learning/The Weird Parts/Section 2 - Execution Contexts and Lexical Environments.md",
+    "Javascript/Guided Learning/Math.round().md",
+    "Javascript/Guided Learning/Math.ceiling().md",
+    "Javascript/Guided Learning/Math.floor().md",
+    "Javascript/Guided Learning/String.slice().md",
+    "Javascript/Guided Learning/Spread Operator.md",
+    "Javascript/Guided Learning/Operators.md",
     "Learning Plan.md",
     "Projects/bajanSalaryProject/Landing Page.md",
-    "WSL/Cheatsheet.md",
-    "Projects/bajanSalaryProject/Data Presentation Page.md",
-    "Projects/bajanSalaryProject/Host on Static Site.md",
-    "Projects/bajanSalaryProject/Job Data Entry Form.md",
-    "Web Dev Tools/List.md",
-    "Projects/bajanSalaryProject/Plan.md",
-    "Meta-Learning/Timetable App or Obsidian Plugin.md",
-    "Templates/projectTemplate.md"
+    "WSL/Cheatsheet.md"
   ]
 }
